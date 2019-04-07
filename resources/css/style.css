@@ -22,6 +22,7 @@ h3 {
   font-weight: 300;
   font-size: 42px;
   text-align: center;
+  color: gray;
 }
 
 p {
@@ -35,6 +36,12 @@ h4 {
   text-align: right;
   color: gray;
   font-family: verdana;
+}
+
+.Video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .Image {
